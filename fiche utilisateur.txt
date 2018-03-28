@@ -1,0 +1,3 @@
+NOM_USR	PREN_USR	DES_W	MATRICULE	"Adresse Mail
+(communication)"	Interne/Externe/Stagiaire/Libre-Service	Date début licence	Date fin licence	Référent	Référent bis	Direction	Complément Direction	SAS BASE	SAS EG et SAS Base	SAS EG	SAS	User Unix	Remarque	DE création compte unix	DE fermeture compte unix 	JIRA habilitation RITP	DE ouverture flux	profil unix	Données du répertoire personnel Home
+ARNAUD	OLIVIER	SD0000863585		olivier.arnaud-prestataire@lcl.fr	Externe	21-mars-16	30-juin-16	Helena KOWALYK		69959-ITP REL STRAT SI CRM ANALYTICS BIGDATA 				0	0	arnauor		possède déjà compte unix	RITM0011858	na	a déjà accès au serveur	?	
